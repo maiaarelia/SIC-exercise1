@@ -1,0 +1,493 @@
+
+
+/* HOME */
+
+/* header for home */
+header {
+    padding: 60px;
+    height: 100px;
+    width: 1230px;
+    background-image: url(https://i.pinimg.com/564x/7e/e9/32/7ee9327646a32340a3b671d4d2475beb.jpg);
+    
+}
+
+.header{
+    position: absolute;
+    color: black;
+    font-size: 40px;
+    text-align: right;
+    background-color: bisque;
+    font-family: monospace;
+}
+
+.navi{
+    display: inline;
+    text-align: left;
+    
+}
+
+.navi a{
+    padding: 30px;
+    color: burlywood;
+}
+
+.navi ul a:hover{
+    color: brown;
+
+}
+
+
+/* body image */
+
+.ikonn{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.name{
+    text-align: center;
+    font-family: Lucida Sans;
+} 
+
+.waw {
+    font-family: 'Trebuchet MS';
+}
+
+/* sosial media */
+h3{
+    text-align: center;
+    color: peru;
+    font-size: 30px;
+    font-family: verdana;
+}
+
+.medsos{
+    width: 50%;
+    height: 60px;
+}
+
+.medsos img{
+    width: 100%;
+    height: 100px;
+}
+
+.medsos td{
+    width:100px;
+    text-align: justify;
+    padding: 55px;
+}
+
+/* footer website */
+
+footer{
+    color: brown;
+    background-color: burlywood;
+    width: 1335px;
+    height: 30px;
+    float: left;
+    margin: 100px 0 0 0;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+
+/* ABOUT ME */
+
+/* header for about me */
+
+#header2{
+    font-family: verdana;
+    position: absolute;
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: left;
+    background-color: bisque;
+    padding: 50px;
+    height: 80px;
+    width: 1230px;
+    background-image: url(https://i.pinimg.com/236x/96/3f/a9/963fa97513293df6228ca29707034220.jpg);
+}
+#gam{
+    background-image: url(https://i.pinimg.com/236x/31/f7/f9/31f7f90b90e024d66658a212ee263575.jpg);
+    height: 160px;
+}
+#iu{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#ham{
+   width: 500px;
+   float: left;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 15px;
+}
+
+#ham p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#hham{
+    font-size: 15px;
+    width: 600px;
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ #hham{
+    padding-bottom: 30px;
+}
+#contact{
+    background-color: rgb(245, 194, 128);
+}
+#hham .bar{
+    height: 20px;
+    border: 1px solid orangered;
+    margin-top: 5px 0 20px 0;
+}
+.bar .nilai{
+    height: 20px;
+    background-color: brown;
+    display: inline-block;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.HTML{
+    width: 35%;
+}
+
+.JAVA{
+    width: 20%;
+}
+
+.CSS{
+    width: 25%;
+}
+ /* WORKS */
+
+ /* header for WORKS */
+ 
+ #header3{
+     font-family: verdana;
+    position: absolute;
+    font-size: 40px;
+    color: whitesmoke;
+    text-align: left;
+    padding: 50px;
+    height: 80px;
+    width: 1230px;
+    background-image: url(https://i.pinimg.com/236x/9d/4f/d7/9d4fd7a2f423923145c69880b442f070.jpg);
+}
+/* PENGETAHUAN UMUM */
+
+.all{
+    text-align: center;
+    background-color: burlywood;
+    width: 500px;
+    color: whitesmoke;
+}
+
+.umum{
+    width: 100%;
+    height: 300px;
+    overflow: auto;
+    }
+    
+    .umum img{
+        width: 200PX;
+        height: 100px;
+        border-radius: 10px;
+    }
+    
+    .umum td{
+        width:150px;
+        text-align: center;
+        padding: 20px;
+    }
+.card { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+.car { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ipa { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.bing { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.sej { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.fis { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ips { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.bio { 
+    width: 200px;
+    height: 130px;
+    background-color: wheat;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.card-txt {
+    text-align: center;
+    padding: 10px;
+}
+
+/* PRODUKTIF */
+.jav { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.dat { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ht { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+.cs { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+.bin { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.pkk { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.pbo { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.pwo { 
+    width: 200px;
+    height: 180px;
+    background-color: rgb(155, 185, 192);
+    margin: 5%;
+    border-radius: 10px;
+    padding: 5px;
+}
+h4{
+    float: right;
+    background-color: burlywood;
+    width: 500px;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+    font-family: verdana;
+}
+
+.kab{
+       width: 100%;
+        height: 200px;
+        overflow: auto;
+    }
+    
+    .kab img{
+        width: 200PX;
+        height: 150px;
+        border-radius: 10PX;
+    }
+    
+    .kab td{
+        width:150px;
+        text-align: center;
+        padding: 55px;
+    }
+
+/* MORE ABOUT ME */
+
+.hob{
+    font-family: verdana;
+}
+#bi{
+    width: 300px;
+ }
+
+ #bi td{
+     padding: 40px;
+ }
+
+ #bi img{
+    width: 250px;
+    height: 200px;
+}
+
+ #bi p{
+    text-align: justify;
+}
+
+ .sik{
+     border-radius: 50%;
+ }
+
+ .suk{
+    border-radius: 50%;
+}
+
+.sak{
+    border-radius: 50%;
+}
+
+/* playlist */
+
+
+#bla {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#quot {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.kui{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+.kui td{ 
+    padding: 20px;
+    
+}
+
+h5{
+    font-size: 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.list{
+    width: 70%;
+    border-collapse: collapse;
+    box-shadow: 0 2px 3px 1px coral;
+    overflow: hidden;
+    border: 10px solid white;
+}
+
+.list th {
+    padding: 10px 7px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.list td {
+    padding: 10px 7px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* Another */
+ 
+#wuih{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 200px;
+}
+
+
+#wuih td{
+    padding: 10px;
+    width:150px;
+    text-align: center;
+}
+
+#wuih img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+
+ 
+ 
