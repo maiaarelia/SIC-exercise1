@@ -130,7 +130,7 @@ footer{
 
 #ham p{
     text-align: justify;
-    font-family: 'Lucida Sans';
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 #hham{
@@ -138,8 +138,6 @@ footer{
     width: 600px;
     float: right;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
- }
- #hham{
     padding-bottom: 30px;
 }
 
