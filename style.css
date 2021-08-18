@@ -142,33 +142,7 @@ footer{
  #hham{
     padding-bottom: 30px;
 }
-#contact{
-    background-color: rgb(245, 194, 128);
-}
-#hham .bar{
-    height: 20px;
-    border: 1px solid orangered;
-    margin-top: 5px 0 20px 0;
-}
-.bar .nilai{
-    height: 20px;
-    background-color: brown;
-    display: inline-block;
-    color: whitesmoke;
-    text-align: center;
-}
 
-.HTML{
-    width: 35%;
-}
-
-.JAVA{
-    width: 20%;
-}
-
-.CSS{
-    width: 25%;
-}
  /* WORKS */
 
  /* header for WORKS */
